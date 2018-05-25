@@ -1,0 +1,19 @@
+div,h1,h2,p,span{margin: 0;padding: 0}
+div{
+    width: 80%;
+    margin:10px auto;
+}
+h1{
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+}
+h2{
+    color: red;
+}
+p{
+    text-align: justify;
+    line-height: 1.8;
+    text-indent: 2em;
+    font-size: 18px;
+}
