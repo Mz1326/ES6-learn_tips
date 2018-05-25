@@ -1,4 +1,4 @@
-div,h1,h2,p,span{margin: 0;padding: 0}
+div,h1,h2,h3,p{margin: 0;padding: 0}
 div{
     width: 80%;
     margin:10px auto;
